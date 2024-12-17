@@ -7,19 +7,12 @@ CSE 111 teaches students how to become **organized, efficient, and powerful prog
 - Handling errors within functions
 - Solving problems across disciplines like business, physical science, human performance, and humanities
 
-### Prerequisites
-Before starting CSE 111, students must complete one of the following:
-- **CSE 110**: Programming Building Blocks
-- **CS 101**: Introduction to Programming
-- **CIT 160**: Introduction to Programming  
-- A minimum score of 110 on the LUC test  
-
 ## Learning Outcomes
 By the end of the course, students will:
-1. Write and call functions to accomplish meaningful tasks in a variety of domains.
-2. Research and use libraries and objects.
-3. Write programs that handle errors and recover from invalid conditions.
-4. Follow good practices in designing, writing, and debugging functions.
+- Write and call functions to accomplish meaningful tasks in a variety of domains.
+- Research and use libraries and objects.
+- Write programs that handle errors and recover from invalid conditions.
+- Follow good practices in designing, writing, and debugging functions.
 
 ## Topics Covered
 1. **Functions**: Parameters, default values, variable scope, and return values.
@@ -32,14 +25,6 @@ By the end of the course, students will:
    - Lambda functions
    - Higher-order functions like `map()` and `filter()`
 6. **Using Objects**: Attributes, methods, and object-oriented practices.
-
-## Course Organization
-CSE 111 is divided into lessons that follow this structure:
-1. **Prepare**: Learn from articles and videos.
-2. **Prepare: Checkpoint**: Practice concepts through small coding tasks.
-3. **Teach: Team Activity**: Solve programming activities in teams.
-4. **Prove**: Complete individual programming assignments.
-5. **Ponder**: Reflect on the learning process through quizzes.
 
 ## Lesson Contents
 
@@ -58,7 +43,6 @@ CSE 111 is divided into lessons that follow this structure:
 | 11     | Functional Programming          | Lambda functions, `map()`, and `filter()`    |
 | 12     | Using Objects                   | Attributes, methods, and objects             |
 | 13     | Student Chosen Project          | Complete an individual programming project   |
-
 
 ## Key Skills Developed
 - Writing clean, reusable, and tested Python code
