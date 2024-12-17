@@ -53,7 +53,7 @@ CSE 111 is divided into lessons that follow this structure:
 
 | Lesson | Topics                          | Key Activities                               |
 |--------|---------------------------------|---------------------------------------------|
-| 1      | Development Environment         | Input, data types, arithmetic, f-strings, print, if, logic      |
+| 1      | Development Environment         | Input, data types, arithmetic, f-strings, print, loops, logic      |
 | 2      | Calling Functions               | Math functions, datetime, and formatting     |
 | 3      | Writing Functions               | Defining functions, parameters, and return   |
 | 4      | Function Details                | Scope, default parameters, and design heuristics |
