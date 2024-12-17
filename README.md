@@ -2,10 +2,10 @@
 
 ## Course Overview
 CSE 111 teaches students how to become **organized, efficient, and powerful programmers** by:
-- Researching and calling functions written by others
+- Researching and calling functions
 - Writing, calling, debugging, and testing their own functions
 - Handling errors within functions
-- Solving problems across disciplines like **business**, **physical science**, **human performance**, and **humanities**
+- Solving problems across disciplines like business, physical science, human performance, and humanities
 
 ### Prerequisites
 Before starting CSE 111, students must complete one of the following:
@@ -13,14 +13,13 @@ Before starting CSE 111, students must complete one of the following:
 - **CS 101**: Introduction to Programming
 - **CIT 160**: Introduction to Programming  
 - A minimum score of 110 on the LUC test  
-- Pathway Connect  
 
 ---
 
 ## Learning Outcomes
 By the end of the course, students will:
 1. Write and call functions to accomplish meaningful tasks in a variety of domains.
-2. Research and use libraries and objects written by others.
+2. Research and use libraries and objects.
 3. Write programs that handle errors and recover from invalid conditions.
 4. Follow good practices in designing, writing, and debugging functions.
 
@@ -40,16 +39,6 @@ By the end of the course, students will:
 
 ---
 
-## Tools and Technology
-- **Python 3**
-- **Visual Studio Code (VS Code)**
-- Communication: **Microsoft Teams**
-- Assignment Submission: **I‑Learn**
-
-Students are required to have a laptop or desktop capable of running Python and VS Code.
-
----
-
 ## Course Organization
 CSE 111 is divided into lessons that follow this structure:
 1. **Prepare**: Learn from articles and videos.
@@ -64,7 +53,7 @@ CSE 111 is divided into lessons that follow this structure:
 
 | Lesson | Topics                          | Key Activities                               |
 |--------|---------------------------------|---------------------------------------------|
-| 1      | Development Environment         | Input, arithmetic, f-strings, and print      |
+| 1      | Development Environment         | Input, data types, arithmetic, f-strings, print, if, logic      |
 | 2      | Calling Functions               | Math functions, datetime, and formatting     |
 | 3      | Writing Functions               | Defining functions, parameters, and return   |
 | 4      | Function Details                | Scope, default parameters, and design heuristics |
