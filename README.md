@@ -66,7 +66,7 @@ CSE 111 is divided into lessons that follow this structure:
 | 11     | Functional Programming          | Lambda functions, `map()`, and `filter()`    |
 | 12     | Using Objects                   | Attributes, methods, and objects             |
 | 13     | Student Chosen Project          | Complete an individual programming project   |
-| 14     | Conclusion                      | Wrap up the course                          |
+
 
 ---
 
@@ -81,3 +81,6 @@ CSE 111 is divided into lessons that follow this structure:
 ## Resources
 - [Course Syllabus](https://byui-cse.github.io/cse111-course/overview/syllabus.html)
 - [Course Content](https://byui-cse.github.io/cse111-course/)
+
+## Disclaimer
+This document is based on the syllabus for **CSE 111: Programming with Functions**. The content is provided for informational purposes only and should not be copied, redistributed, or used without proper permission.  
