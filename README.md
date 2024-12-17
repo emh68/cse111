@@ -83,4 +83,4 @@ CSE 111 is divided into lessons that follow this structure:
 - [Course Content](https://byui-cse.github.io/cse111-course/)
 
 ## Disclaimer
-> *This document is based on the syllabus for **CSE 111: Programming with Functions**. The content is provided for informational purposes only and should not be copied, redistributed, or used without proper permission. * 
+> *This document is based on the syllabus for **CSE 111: Programming with Functions**. The content is provided for informational purposes only and should not be copied, redistributed, or used without proper permission.* 
